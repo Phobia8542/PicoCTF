@@ -1,7 +1,0 @@
-downloaded c source code
-nc <challenge link> <port> 
-E-shop selection screen
-3 selection options - Check account balance, buy flags, exit
-Initial balance 1100
-returned 1337 flag and not the flag
-

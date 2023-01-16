@@ -1,6 +1,0 @@
-Values change every time you connect to netcat - intially have 45 seconds to solve
-Steps involved:
-Connect using netcat
-Shows initial password in plain text - can be converted from binary
-Convert additional value from charcode - base 8
-Convert number value from hexadecimal

@@ -1,7 +1,0 @@
-ssh username@picoctf.net -p 56657
-password 6dee9772
-cat 1of3.flag.txt - picoCTF{xxsh_
-cd /
-cat 2of3.flag.txt - 0ut_0f_\/\/4t3r_ 
-cd back to home directory
-cat 3of3.flag.txt - 540e4e79}

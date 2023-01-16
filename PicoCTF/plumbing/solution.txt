@@ -1,1 +1,0 @@
-nc <challenge link> <port> | grep "pico"

@@ -1,5 +1,0 @@
-Originally tried to use wayback machine version of rockstar - didn't work
-Pip installed rockstar
-rockstar-py -i lyrics.txt -o lyrics.py
-Had to correct lyrics file to get ascii values
-Converted from ascii
