@@ -1,0 +1,4 @@
+Launch page
+Inspect source
+Open CSS and JS files in another tab
+Collect both parts of flag

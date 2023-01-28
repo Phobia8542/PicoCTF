@@ -1,0 +1,2 @@
+# :%s/original/replacement/gc
+Used to replace patterns in vim - confirmation required for each pattern

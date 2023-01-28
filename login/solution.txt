@@ -1,0 +1,2 @@
+Started by testing login -  admin:test
+Page replied with wrong password indicating username is correct

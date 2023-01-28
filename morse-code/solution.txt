@@ -1,0 +1,7 @@
+Downloaded .wav file
+Ran through audacity - wasn't useful
+Ran through online tool - Closer but didn't have any gaps in words
+Downloaded and used morse2ascii util tool
+morse2ascii -m audio.wav
+.-- .... ....- --... / .... ....- --... .... / ----. ----- -.. / .-- ..--- ----- ..- ----. .... --...
+Ran through conversion tool for plain text solution

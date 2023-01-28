@@ -1,7 +1,15 @@
+Learnt about 2's compliment
+
 downloaded c source code
 nc <challenge link> <port> 
 E-shop selection screen
 3 selection options - Check account balance, buy flags, exit
 Initial balance 1100
 returned 1337 flag and not the flag
+
+Menu selection: 2 - Buy flag
+1 - Definelty not the flag > Knock off price, desired amount > 10000000000000000
+Final cost is: -494665728
+Acount balance raise to 494665728
+2 - Buy flag > 2 - 1337 flag > flag
 

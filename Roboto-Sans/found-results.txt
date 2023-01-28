@@ -1,0 +1,3 @@
+Found: /images               (Status: 301) [Size: 169] [--> http://saturn.picoctf.net/images/]
+Found: /css                  (Status: 301) [Size: 169] [--> http://saturn.picoctf.net/css/]
+Found: /js                   (Status: 301) [Size: 169] [--> http://saturn.picoctf.net/js/]
