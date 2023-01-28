@@ -1,0 +1,5 @@
+wget https://artifacts.picoctf.net/c/553/big-zip-files.zip
+unzip big-zip-files.zip
+ls
+grep -r pico
+
