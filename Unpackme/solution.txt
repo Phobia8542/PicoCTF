@@ -1,0 +1,9 @@
+Download source code, cat source, modify code (print plaintext), enter gibberish, collect flag
+
+added to file
+d = f.decrypt(payload)
+print(d)
+
+reference:
+
+https://www.geeksforgeeks.org/fernet-symmetric-encryption-using-cryptography-module-in-python/

@@ -1,0 +1,7 @@
+Opened link
+Inspected page
+Found first flag in html - picoCTF{t
+Found second flag in css - h4ts_4_l0
+Found third flag in robots.txt - t_0f_pl4c}
+I think this is an apache server... can you Access the next flag?
+

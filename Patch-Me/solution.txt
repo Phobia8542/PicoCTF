@@ -1,0 +1,1 @@
+Download source code, cat python file, copy user password to text file, run code, enter copied password, copy flag
